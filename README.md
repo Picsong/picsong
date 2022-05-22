@@ -23,7 +23,12 @@ hi, i'm [Picsong](https://picsong.top/)
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   49 mins         █████████████████████████   100.00 %
+JSON             2 hrs 24 mins   ████████████░░░░░░░░░░░░░   47.97 %
+TypeScript       1 hr 24 mins    ███████░░░░░░░░░░░░░░░░░░   28.11 %
+Vue.js           37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+YAML             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+GitIgnore file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+tsconfig         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
