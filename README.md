@@ -23,10 +23,9 @@ hi, i'm [Picsong](https://picsong.top/)
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       1 hr 56 mins    ████████████████████████░   95.35 %
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Vue.js       12 mins         █████████████████████████   99.95 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
