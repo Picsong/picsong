@@ -23,7 +23,8 @@ hi, i'm [Picsong](https://picsong.top/)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vue.js       0 secs          █████████████████▓░░░░░░░   70.32 %
+TypeScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.68 %
 ```
 
 <!--END_SECTION:waka-->
